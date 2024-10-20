@@ -1,11 +1,7 @@
 ### Hi there, my name is Lucas Almeida 👋
 
 
--🎓 I'm graduated in systems analysis and development <br>
--💹 I work as a Database Analyst using SQL for ETL, PL/SQL (Oracle Database), Linux and Cloud <br>
--👨‍💻 I'm also a data engineering student <br> 
--📚 I'm currently learning Python <br>
--🌱 My interesses are PySpark, ETL, AWS (S3, RDS), Data Pipeline, Airflow, Relational and NoSQL Databases <br> 
-
-
-
+-🎓 I hold a degree in Systems Analysis and Development <br>
+-💹 I work as a Data Analyst, using Python for Data Pipeline projects, ETL, and Data Analysis <br>
+-👨‍💻 I'm also studying Data Engineering <br>
+-🌱 My interests include PySpark, AWS (S3, RDS, Glue, EMR), Azure, Airflow, and both Relational and NoSQL Databases <br>
